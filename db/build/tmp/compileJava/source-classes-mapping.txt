@@ -1,0 +1,6 @@
+ru/tenilin/db/MyEntity.java
+ ru.tenilin.db.MyEntity
+ru/tenilin/db/Db.java
+ ru.tenilin.db.Db
+ru/tenilin/db/DbSetting.java
+ ru.tenilin.db.DbSetting
