@@ -1,2 +1,0 @@
-ru/tenilin/service/MyService.java
- ru.tenilin.service.MyService
